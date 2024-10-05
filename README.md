@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Android developer with a strong focus on creating highperformance, intuitive mobile applications. With hands-on experience in<br>building responsive and user-friendly apps, I have successfully completed<br>several projects that demonstrate my ability to solve complex challenges. I<br>am committed to continuous learning and improvement, always aiming to<br>deliver top-quality solutions in every project I undertake.
+I am a passionate Android developer with a strong focus on creating high performance, intuitive mobile applications. With hands-on experience in building responsive and user-friendly apps, I have successfully completed several projects that demonstrate my ability to solve complex challenges. I am committed to continuous learning and improvement, always aiming to deliver top-quality solutions in every project I undertake.
 
 
 ## 🌐 Socials:
